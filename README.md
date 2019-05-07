@@ -25,9 +25,8 @@ Place your `.txt` file with the PMIDs of the relevant articles in the [Data_Prep
 
 See the sample files provided and match your files to that format. After placing them in the apropriate location, go to the `variables.py` script (NOTE, there are three of them, one in each folder) and change the variables to match the name of your files without .bib or .txt, just the file name. 
 
-## Individual file names                                             ######
-FILE_1 = 'sample_file_1'     # Do not write sample_file_1.bib        ######
-FILE_2 = 'sample_file_2'
+##### Individual file names                                          
+e.g FILE_1 = 'sample_file_1'  Do not write sample_file_1.bib        
 
 ## Data Collection
 If you have a `.bib` file, run the first option in the `get_pmids_titles_abst_meta.py` script in order to get all the files in the [Processed_data](Data_Collection/Processed_data) folder.
