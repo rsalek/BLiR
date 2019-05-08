@@ -108,6 +108,6 @@ def main_pmids(files):
 #main_pmids(ALL)          # run for file1 and file2
 #OR
 #main_pmids(FILE_1)       # single run for file1
-#main_pmids(FILE_2)       # single run for file2
+main_pmids(FILE_2)       # single run for file2
 
 

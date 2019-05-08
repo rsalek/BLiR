@@ -11,8 +11,8 @@ Biomarker Literature Retrieval; a supervised machine learning approach to assist
 In order for the program to work, you need to provide:
 1. BibTeX file(s) or text file(s) with PMIDs;
 2. A text file with the PMIDs of the relevant articles.
-3. Create folders for Data_Collection, Data_preprocessing and Machine_Learning.
-4. Data_Collection collection has Raw_data and Processed_data subfolders
+3. You need to have 3 folders: Data_Collection, Data_preprocessing and Machine_Learning.
+4. Data_Collection has Raw_data and Processed_data subfolders
 
 #### BibTeX file:
 If you have a `.bib` file, place it in the [Raw_data](Data_Collection/Raw_data) folder.
